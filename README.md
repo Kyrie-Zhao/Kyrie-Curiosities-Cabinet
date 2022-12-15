@@ -8,3 +8,6 @@
 3. NeRF, Q4ML, ML4Q, QCompiler... dazzled, [Closing the Gap between Quantum Algorithms and Machines with Hardware-Software Co-Design](https://people.cs.uchicago.edu/~ftchong/Chong-QC-UCLA19.pdf)
 
 4. Sim2Real Runtime Engine, for e.g. [MinDOJO](https://github.com/MineDojo/MineDojo), autonomous driving?[X], nature of simulation: massive data, exploration cost, distributed traing <-> real. 
+
+5. Carbon-aware DNN Compiler
+- [EDEN: Enabling energy-efficient, high-performance deep neural network inference using approximate DRAM](https://dl.acm.org/doi/pdf/10.1145/3352460.3358280) by Koppula, Skanda, et al., MICRO 2019
