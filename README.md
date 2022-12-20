@@ -13,3 +13,5 @@
 - [EDEN: Enabling energy-efficient, high-performance deep neural network inference using approximate DRAM](https://dl.acm.org/doi/pdf/10.1145/3352460.3358280) by Koppula, Skanda, et al., MICRO 2019
 
 6. Duet类似的dual device inference的nn compiler+runtime，异构子图优化，根据不同设备的并行性能优化。
+
+7. Diffusion model Survey [Diffusion models: A comprehensive survey of methods and applications](https://arxiv.org/pdf/2209.00796)
