@@ -20,3 +20,4 @@
 - CryptGPU
 - PolyMPCNet
 - Crypten
+- Cheetah
