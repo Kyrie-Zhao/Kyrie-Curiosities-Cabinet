@@ -15,3 +15,8 @@
 6. Duet类似的dual device inference的nn compiler+runtime，异构子图优化，根据不同设备的并行性能优化。
 
 7. Diffusion model Survey [Diffusion models: A comprehensive survey of methods and applications](https://arxiv.org/pdf/2209.00796)
+
+8. Crypto | Privacy | Security + Accelerator
+- CryptGPU
+- PolyMPCNet
+- Crypten
