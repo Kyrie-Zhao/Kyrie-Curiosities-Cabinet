@@ -21,3 +21,7 @@
 - PolyMPCNet
 - Crypten
 - Cheetah
+
+9. On-device AI
+- [EfficientFormer: Vision Transformers at MobileNet Speed](https://arxiv.org/pdf/2206.01191)
+- [FlexiBERT: Are Current Transformer Architectures too Homogeneous and Rigid?](https://arxiv.org/pdf/2205.11656)
