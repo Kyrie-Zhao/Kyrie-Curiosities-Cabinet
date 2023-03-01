@@ -26,3 +26,6 @@
 9. On-device AI
 - [EfficientFormer: Vision Transformers at MobileNet Speed](https://arxiv.org/pdf/2206.01191)
 - [FlexiBERT: Are Current Transformer Architectures too Homogeneous and Rigid?](https://arxiv.org/pdf/2205.11656)
+
+10. [Summarizing CPU and GPU Design Trends with Product Data](https://chip-dataset.vercel.app/)
+ 
