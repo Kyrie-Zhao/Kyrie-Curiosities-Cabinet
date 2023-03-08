@@ -12,6 +12,8 @@
 5. Carbon-aware DNN Compiler
 - [EDEN: Enabling energy-efficient, high-performance deep neural network inference using approximate DRAM](https://dl.acm.org/doi/pdf/10.1145/3352460.3358280) by Koppula, Skanda, et al., MICRO 2019
 - [Carbon Explorer: A Holistic Framework for Designing Carbon Aware Datacenters](https://www.seas.upenn.edu/~leebcc/documents/acun23-explorer.pdf) by Acun, Bilge, et al., ASPLOS 2023
+- [octoml](https://www.linkedin.com/pulse/octoml-drives-down-production-ai-inference-costs-microsoft-octoml/?trackingId=Q2kohbkIR0qJ8TOzKcBc5Q%3D%3D)
+- lamppost, energy = cost
 
 6. Duet类似的dual device inference的nn compiler+runtime，异构子图优化，根据不同设备的并行性能优化。
 
@@ -30,3 +32,5 @@
 10. [Summarizing CPU and GPU Design Trends with Product Data](https://chip-dataset.vercel.app/)
  
 11. [prompt](https://github.com/ZrrSkywalker/CaFo)
+
+12. e
