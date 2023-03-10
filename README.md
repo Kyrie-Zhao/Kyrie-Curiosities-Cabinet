@@ -36,3 +36,5 @@ The OctoML Platform has always provided automation for exploring multiple model 
 11. [prompt](https://github.com/ZrrSkywalker/CaFo)
 
 12. webGPU (https://github.com/mlc-ai/web-stable-diffusion)
+
+13. zeroth order optimization (blackboxML)
