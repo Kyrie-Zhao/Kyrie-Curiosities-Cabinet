@@ -14,6 +14,7 @@
 - [Carbon Explorer: A Holistic Framework for Designing Carbon Aware Datacenters](https://www.seas.upenn.edu/~leebcc/documents/acun23-explorer.pdf) by Acun, Bilge, et al., ASPLOS 2023
 - [octoml](https://www.linkedin.com/pulse/octoml-drives-down-production-ai-inference-costs-microsoft-octoml/?trackingId=Q2kohbkIR0qJ8TOzKcBc5Q%3D%3D)
 - lamppost, energy = cost,  "However, AI inference at such a massive scale is very expensive."
+- [Zeus](https://symbioticlab.org/publications/files/zeus:nsdi23/zeus-nsdi23.pdf)
 
 The OctoML Platform has always provided automation for exploring multiple model acceleration techniques. Via our new TVM-ONNX Runtime integration, 
 
@@ -38,3 +39,5 @@ The OctoML Platform has always provided automation for exploring multiple model 
 12. webGPU (https://github.com/mlc-ai/web-stable-diffusion)
 
 13. zeroth order optimization (blackboxML)
+
+14. 
