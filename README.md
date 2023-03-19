@@ -40,4 +40,4 @@ The OctoML Platform has always provided automation for exploring multiple model 
 
 13. zeroth order optimization (blackboxML)
 
-14. 
+14. Unified abstarctions for IoT datastream.
