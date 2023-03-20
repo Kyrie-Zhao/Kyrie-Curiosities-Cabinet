@@ -41,3 +41,7 @@ The OctoML Platform has always provided automation for exploring multiple model 
 13. zeroth order optimization (blackboxML)
 
 14. Unified abstarctions for IoT datastream.
+
+15. mlir for heter-device ml-flow (dnn & non-dnn operators & flow)
+
+16. tile ir => mixed-tile ir? cross-domain/modality ir?
