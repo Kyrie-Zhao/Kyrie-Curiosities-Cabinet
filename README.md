@@ -44,4 +44,6 @@ The OctoML Platform has always provided automation for exploring multiple model 
 
 15. mlir for heter-device ml-flow (dnn & non-dnn operators & flow)
 
-16. tile ir => mixed-tile ir? cross-domain/modality ir?
+16. tile ir => mixed-tile ir? cross-domain/modality ir? Pain point: multi-layer IR redundant code opt. iree support vulkan-spirv，for mobile gpu and cpu => compiler support for data flow in e2e auto vehicle
+
+17. 
