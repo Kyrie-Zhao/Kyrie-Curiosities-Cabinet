@@ -46,4 +46,4 @@ The OctoML Platform has always provided automation for exploring multiple model 
 
 16. tile ir => mixed-tile ir? cross-domain/modality ir? Pain point: multi-layer IR redundant code opt. iree support vulkan-spirv，for mobile gpu and cpu => compiler support for data flow in e2e auto vehicle
 
-17. 
+17. LLM running with CNN and DNN, co-running transformer and CNN.
