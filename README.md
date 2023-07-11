@@ -49,3 +49,5 @@ The OctoML Platform has always provided automation for exploring multiple model 
 17. LLM running with CNN and DNN, co-running transformer and CNN.
 
 18. NPU running LLM, energy problem.
+
+19. llm token的稀疏性和input token的动态性使distributed inference不是所有通信都是必要的。
