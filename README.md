@@ -56,4 +56,4 @@ The OctoML Platform has always provided automation for exploring multiple model 
 
 20. machine unlearning ood
 
-21. 样本端不愿意给label
+21. 样本端不愿意给label，都从云走的话太慢，以及云负载过大。
