@@ -59,3 +59,7 @@ The OctoML Platform has always provided automation for exploring multiple model 
 21. 样本端不愿意给label，都从云走的话太慢，以及云负载过大。
 
 22. 未知任务识别放edge，未知任务识别在云上？
+
+23. 有多少edge数据放在边缘侧可以finetune出比较好的垂直大模型？
+
+24. Simulator for edge？
