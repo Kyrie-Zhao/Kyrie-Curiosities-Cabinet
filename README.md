@@ -63,3 +63,5 @@ The OctoML Platform has always provided automation for exploring multiple model 
 23. 有多少edge数据放在边缘侧可以finetune出比较好的垂直大模型？
 
 24. Simulator for edge？
+
+25. 大模型compiler for edge,迁移性
