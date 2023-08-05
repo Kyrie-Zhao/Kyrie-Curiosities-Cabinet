@@ -65,3 +65,5 @@ The OctoML Platform has always provided automation for exploring multiple model 
 24. Simulator for edge？
 
 25. 大模型compiler for edge,迁移性
+
+26. finetuning edge llm + compiler
