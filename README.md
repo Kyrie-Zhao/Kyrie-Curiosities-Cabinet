@@ -69,3 +69,5 @@ The OctoML Platform has always provided automation for exploring multiple model 
 26. finetuning edge llm + compiler
 
 27. rTile, rGraph, 重新定义基本单元，不要以op为单位，see as dataflow。load-compute-store。大模型on edge as dynamic nn。
+
+28. Develop compiler strategies that can efficiently distribute model computations between edge and server GPUs, considering factors such as network latency, communication overhead, and load balancing.
