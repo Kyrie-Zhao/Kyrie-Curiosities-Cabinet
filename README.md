@@ -72,4 +72,6 @@ The OctoML Platform has always provided automation for exploring multiple model 
 
 28. Develop compiler strategies that can efficiently distribute model computations between edge and server GPUs, considering factors such as network latency, communication overhead, and load balancing.
 
-29. To facilitate this mapping, WELDER provides an abstracted accelerator device with hierarchical memory layers. 
+29. To facilitate this mapping, WELDER provides an abstracted accelerator device with hierarchical memory layers.
+
+30. Tensor 版本的imagebind
