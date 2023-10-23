@@ -75,3 +75,7 @@ The OctoML Platform has always provided automation for exploring multiple model 
 29. To facilitate this mapping, WELDER provides an abstracted accelerator device with hierarchical memory layers.
 
 30. Tensor 版本的imagebind, meta-transformer. Tuned records of same op/graphs (objects) on different hardwares (modality). Goal: unify hardware intrinsics, feature: cost model <-> svm对image到现在的encoder
+
+31. Explore Data Placement Algorithm for Balanced Recovery Load Distribution
+
+32. zpoline: a system call hook mechanism based on binary rewriting
