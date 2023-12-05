@@ -81,3 +81,5 @@ The OctoML Platform has always provided automation for exploring multiple model 
 32. zpoline: a system call hook mechanism based on binary rewriting
 
 33. tensorir,code embedding, llm
+
+34. decompiling, executables to ir to another device e2e, nvidia tx2 的compiled模型，一键迁移到另一个上。
